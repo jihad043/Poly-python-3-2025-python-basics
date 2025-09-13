@@ -12,6 +12,6 @@ if nums_1 is nums_3:
 else:
     print ("nums_1 is not nums_3:","false"  )
 if 3 in nums_3:
-    print (nums_3 ,"3 is availablein" )
+    print (nums_3 ,"3 is available" )
 else:
-    print (nums_3 ,"3 is not availablein ")
+    print (nums_3 ,"3 is not available")
